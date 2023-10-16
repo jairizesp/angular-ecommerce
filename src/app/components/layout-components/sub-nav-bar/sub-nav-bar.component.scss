@@ -1,0 +1,4 @@
+.right-items > :not(:last-child) {
+  padding: 0 1rem;
+  border-right: 1px solid grey;
+}
